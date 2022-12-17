@@ -1,0 +1,8 @@
+org/example/oauthserver/config/AuthorizationServerConfig.class
+org/example/oauthserver/DefaultAuthorizationServerApplication.class
+org/example/oauthserver/userinfo/OidcUserInfoService.class
+org/example/oauthserver/jose/Jwks.class
+org/example/oauthserver/jose/KeyGeneratorUtils.class
+org/example/oauthserver/config/DefaultSecurityConfig.class
+org/example/oauthserver/userinfo/OidcUserInfoService$UserInfoRepository.class
+org/example/oauthserver/userinfo/IdTokenCustomizerConfig.class

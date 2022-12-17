@@ -1,0 +1,7 @@
+/Users/iamsiberian/IdeaProjects/baeldung-oauth2-guide/oauth-server/src/main/java/org/example/oauthserver/config/AuthorizationServerConfig.java
+/Users/iamsiberian/IdeaProjects/baeldung-oauth2-guide/oauth-server/src/main/java/org/example/oauthserver/userinfo/OidcUserInfoService.java
+/Users/iamsiberian/IdeaProjects/baeldung-oauth2-guide/oauth-server/src/main/java/org/example/oauthserver/config/DefaultSecurityConfig.java
+/Users/iamsiberian/IdeaProjects/baeldung-oauth2-guide/oauth-server/src/main/java/org/example/oauthserver/jose/KeyGeneratorUtils.java
+/Users/iamsiberian/IdeaProjects/baeldung-oauth2-guide/oauth-server/src/main/java/org/example/oauthserver/jose/Jwks.java
+/Users/iamsiberian/IdeaProjects/baeldung-oauth2-guide/oauth-server/src/main/java/org/example/oauthserver/DefaultAuthorizationServerApplication.java
+/Users/iamsiberian/IdeaProjects/baeldung-oauth2-guide/oauth-server/src/main/java/org/example/oauthserver/userinfo/IdTokenCustomizerConfig.java

@@ -1,0 +1,17 @@
+server:
+  port: 9000
+  clientId: sberid
+  clientSecret: ${server.clientId}secret
+
+defaultUser:
+  name: user1
+  password: password
+  role: user
+
+logging:
+  level:
+    root: DEBUG
+#    org.springframework.web: INFO
+#    org.springframework.security: INFO
+#    org.springframework.security.oauth2: INFO
+#    org.springframework.boot.autoconfigure: DEBUG

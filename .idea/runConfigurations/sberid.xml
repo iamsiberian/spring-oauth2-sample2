@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sberid" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" />
+    <module name="oauth-server" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.oauthserver.DefaultAuthorizationServerApplication" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.example.oauthserver.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
